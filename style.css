@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ul-style{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.li-style{
+    display: inline-block;
+    margin: 10px;
+    background-color: aquamarine;
+    color: brown;
+    padding: 15px;
+    border-radius: 16px;
+    cursor: pointer;
+}
+#ajax{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+}
+#span-style{
+    font-size: 50px;
+    color: red;
+    font-style: italic;
+}
+img{
+    width: 15%;
+}
+#btn-load{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: seagreen;
+    color: springgreen;
+    cursor: pointer;
+}
